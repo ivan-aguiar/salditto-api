@@ -1,0 +1,63 @@
+Origen,Destino,comision final
+btc,usdt,98.50
+btc,usd cash,97.00
+btc,pesos transfer,95.50
+btc,pesos cash,96.00
+btc,wire/ach,99.00
+btc,wise/deel,99.00
+btc,zelle,98.00
+payoneer,usdt,96.50
+payoneer,usd cash,95.50
+payoneer,pesos transfer,95.00
+payoneer,pesos cash,94.50
+payoneer,btc,96.00
+payoneer,wire/ach,98.00
+payoneer,wise/deel,98.00
+payoneer,zelle,98.00
+pesos cash,usdt,100.00
+pesos cash,usd cash,101.00
+pesos cash,btc,100.50
+pesos cash,wire/ach,101.00
+pesos cash,wise/deel,101.00
+pesos cash,zelle,101.50
+pesos transfer,usdt,101.50
+pesos transfer,usd cash,104.00
+pesos transfer,btc,102.50
+pesos transfer,wire/ach,102.50
+pesos transfer,wise/deel,102.50
+pesos transfer,zelle,103.50
+usd cash,usdt,101.00
+usd cash,pesos transfer,99.50
+usd cash,pesos cash,99.00
+usd cash,btc,100.50
+usd cash,wire/ach,100.50
+usd cash,wise/deel,100.50
+usd cash,zelle,100.00
+usdt,usd cash,97.50
+usdt,pesos transfer,96.00
+usdt,pesos cash,96.50
+usdt,btc,99.00
+usdt,wire/ach,99.50
+usdt,wise/deel,99.50
+usdt,zelle,98.50
+wire/ach,usdt,98.00
+wire/ach,usd cash,96.50
+wire/ach,pesos transfer,96.50
+wire/ach,pesos cash,95.50
+wire/ach,btc,97.50
+wire/ach,wise/deel,99.00
+wire/ach,zelle,99.00
+wise/deel,usdt,98.00
+wise/deel,usd cash,96.50
+wise/deel,pesos transfer,96.50
+wise/deel,pesos cash,95.50
+wise/deel,btc,97.50
+wise/deel,wire/ach,99.00
+wise/deel,zelle,99.00
+zelle,usdt,96.00
+zelle,usd cash,94.50
+zelle,pesos transfer,94.50
+zelle,pesos cash,93.50
+zelle,btc,95.50
+zelle,wire/ach,96.00
+zelle,wise/deel,96.00
