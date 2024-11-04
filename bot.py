@@ -4,7 +4,7 @@ from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
 # Load exchange rates from CSV
-CSV_FILE_PATH = r'C:\Users\skype\Downloads\bot\exchange_rates.csv'
+CSV_FILE_PATH = 'exchange_rates.csv'
 exchange_data = pd.read_csv(CSV_FILE_PATH)
 
 # Extract unique origin options for the keyboard and drop NaN values
